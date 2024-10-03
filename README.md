@@ -1,8 +1,11 @@
-# React + Vite
+# Add to Cart Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a simple e-commerce app built using ReactJS, React Router, Fake Store API, and Tailwind CSS.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Fetches products from Fake Store API
+- Add and remove products from the cart
+- Increase and decrease item quantity in the cart
+- Navigate between products and cart page using React Router
+
